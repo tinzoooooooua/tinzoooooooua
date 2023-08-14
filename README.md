@@ -1,7 +1,7 @@
-## Hi, I'm Stanislav! 👋
+## Hi, I'm Stanislav Shevchenko! 👋
 
 ### 🚀 ABOUT ME
-#### Hi there 👋 I’m a developer with experience in web technologies. I mostly work with frontend. I want to take up the position of frontend developer with the possibility of becoming better. I’d like to work remotely with a flexible working schedule. I want to write a lot of new code, solve interesting issues, create new projects from scratch. But I understand that sometimes developers have to do boring work like supporting legacy code.
+#### I’m a developer with experience in web technologies. I mostly work with frontend. I want to take up the position of frontend developer with the possibility of becoming better. I’d like to work remotely with a flexible working schedule. I want to write a lot of new code, solve interesting issues, create new projects from scratch. But I understand that sometimes developers have to do boring work like supporting legacy code.
 
 ### 🛠 Tech stack:
 **Client:** `JavaScript, TypeScript, Vue.js 2/3, Webpack, Vite, Nuxt.js, HTML, CSS, SCSS, SASS, LESS, REST API, Git Flow` [NPM](https://www.npmjs.com/~tinzoooooooua),
